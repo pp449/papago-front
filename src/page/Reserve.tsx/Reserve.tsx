@@ -39,7 +39,6 @@ const Reserve = () => {
           reservedPostId: post.id,
           number: selected,
           comment: comment,
-          done: false
         };
         setReservation((oldReservation) => [...oldReservation, newReservation]);
         alert("예약되었습니다.");
