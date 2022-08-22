@@ -47,10 +47,10 @@ const storage: IState = {
   users: atom({
     key: "user",
     default: {
-      "jsw9808@gmail.com": {
-        email: "jsw9808@gmail.com",
+      "mma771@naver.com": {
+        email: "mma771@naver.com",
         password: "1234",
-        name: "정승우",
+        name: "이상엽",
         ticket: 0,
       },
     } as IUserWrap,
@@ -74,8 +74,8 @@ const storage: IState = {
           "안녕하세요. 저는 동래구에서 태권도 도장을 운영중인 예은이 아빠입니다. 심신이 지친 요즘, 아이들과 태권도로 땀도 흘리고 즐거운 추억을 만들어보시는 건 어떨까요? 성장기인 아이들에게 성장 발달에 도움이 되는 태권도 프로그램으로 구성해답니다. ",
         hostEmail: "jsw9808@gmail.com",
         images: [require("../asset/image/tae.jpeg")],
-        fromDate: new Date("2022-04-30T20:00:00"),
-        toDate: new Date("2022-04-30T22:00:00"),
+        fromDate: new Date("2022-08-23T20:00:00"),
+        toDate: new Date("2022-08-23T22:00:00"),
         postNumber: "48432",
         address: "부산시 남구 수영로 325번길 12",
         detailedAddress: "105동 509호",
@@ -125,8 +125,8 @@ const storage: IState = {
           "안녕하세요. 저는 항공사 기장이고 아들을 가진 아빠입니다. 혹시 파일럿이 꿈인 자녀가 있다면, 이번주 저희집에서 시뮬레이터로 비행기 조종을 체험해보는건 어떨까요? 간단한 비행 조종 안전 규칙과 조종 관련 지식을 알려주는 시간도 가질 예정입니다. 자녀의 꿈에 날개를 다는 기회를 만들어 가세요 ^^ ",
         hostEmail: "jsw9808@gmail.com",
         images: [require("../asset/image/home.jpeg")],
-        fromDate: new Date("2022-04-30T20:00:00"),
-        toDate: new Date("2022-04-30T22:00:00"),
+        fromDate: new Date("2022-08-30T20:00:00"),
+        toDate: new Date("2022-08-30T22:00:00"),
         postNumber: "48432",
         address: "부산시 남구 수영로 325번길 12",
         detailedAddress: "105동 509호",

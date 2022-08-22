@@ -1,46 +1,27 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 프로젝트 배경
+'파파고' 프로젝트는 주말에 아버지들이 아이들을 효율적으로 놀아주기 위해 만들어진 프로젝트입니다. 아버지들의 다양한 직군, 재능을 가지고 있습니다. 이런 아버지들이 재능기부를 통해 아이들이 다양한 직업체험 및 경험을 접하게 하여 아버지와 아이 모두 윈윈할 수 있는 플랫폼입니다.
 
-## Available Scripts
+# 프로젝트 소개
+- '파파고'는 티켓을 기반으로 운영됩니다! 티켓은 현금거래를 통해 구매하거나 판매가 가능합니다 (만일 판매 시 일정 수수료를 부과)
+- 활동을 참여하기 위해 아이 1명당 티켓 1개가 소모됩니다
+- 활동을 주최하는 사람은 참여하는 아이 1명당 티켓 1개를 얻습니다
 
-In the project directory, you can run:
+# 프로젝트 스크린샷
+###  홈 화면
+<img width="1728" alt="Screen Shot 2022-08-22 at 1 25 44 PM" src="https://user-images.githubusercontent.com/71641127/185950082-d7ba303d-5361-4beb-af2b-82cb4a3e2b26.png">
 
-### `npm start`
+### 티켓 구매 화면
+<img width="1728" alt="Screen Shot 2022-08-22 at 1 32 59 PM" src="https://user-images.githubusercontent.com/71641127/185950237-a4eb7e51-b803-4865-8167-d493e96992fc.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 활동을 주최하는 페이지
+<img width="1728" alt="qq" src="https://user-images.githubusercontent.com/71641127/185950971-24fff046-e91c-49d7-95e0-cd42b186159d.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 활동 상세페이지
+<img width="1728" alt="Screen Shot 2022-08-22 at 1 25 55 PM" src="https://user-images.githubusercontent.com/71641127/185950181-7cfe1f8d-4129-4f3d-ac9d-f896a387c4b9.png">
 
-### `npm test`
+### 활동 신청 페이지
+<img width="1728" alt="Screen Shot 2022-08-22 at 1 31 11 PM" src="https://user-images.githubusercontent.com/71641127/185950195-64a39471-763b-4368-b256-6a2fed6f3320.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 활동 신청 후 홈 화면에 일정 소개
+<img width="1728" alt="Screen Shot 2022-08-22 at 1 32 53 PM" src="https://user-images.githubusercontent.com/71641127/185950206-7491c676-3ca7-46ff-a115-2938a011a141.png">

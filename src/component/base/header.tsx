@@ -57,7 +57,7 @@ const Header = () => {
                 <div className="w-3" />
                 <div>
                   <div className="flex items-center justify-between">
-                    <div className="font-bold">승우</div>
+                    <div className="font-bold">이상엽</div>
                     <div className="text-gray-500 text-sm" onClick={logout}>
                       로그아웃
                     </div>
