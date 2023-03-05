@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/papago-front/static/css/main.948e913a.css",
-    "main.js": "/papago-front/static/js/main.c60eed1c.js",
+    "main.js": "/papago-front/static/js/main.6ba59655.js",
     "static/media/dog.png": "/papago-front/static/media/dog.b7d59e7c9267369d7d00.png",
     "static/media/ticket.png": "/papago-front/static/media/ticket.298f30451962f831c440.png",
     "static/media/dog_walk.jpeg": "/papago-front/static/media/dog_walk.d7bd863bce2558fe4c2b.jpeg",
@@ -12,10 +12,10 @@
     "static/media/logo.png": "/papago-front/static/media/logo.c2e7337cea25b2821ca4.png",
     "index.html": "/papago-front/index.html",
     "main.948e913a.css.map": "/papago-front/static/css/main.948e913a.css.map",
-    "main.c60eed1c.js.map": "/papago-front/static/js/main.c60eed1c.js.map"
+    "main.6ba59655.js.map": "/papago-front/static/js/main.6ba59655.js.map"
   },
   "entrypoints": [
     "static/css/main.948e913a.css",
-    "static/js/main.c60eed1c.js"
+    "static/js/main.6ba59655.js"
   ]
 }
