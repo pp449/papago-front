@@ -1,5 +1,4 @@
-
-# 프로젝트 배경
+ # 프로젝트 배경
 '파파고' 프로젝트는 주말에 아버지들이 아이들을 효율적으로 놀아주기 위해 만들어진 프로젝트입니다. 아버지들의 다양한 직군, 재능을 가지고 있습니다. 이런 아버지들이 재능기부를 통해 아이들이 다양한 직업체험 및 경험을 접하게 하여 아버지와 아이 모두 윈윈할 수 있는 플랫폼입니다.
 
 # 프로젝트 소개
@@ -25,3 +24,18 @@
 
 ### 활동 신청 후 홈 화면에 일정 소개
 <img width="1728" alt="Screen Shot 2022-08-22 at 1 32 53 PM" src="https://user-images.githubusercontent.com/71641127/185950206-7491c676-3ca7-46ff-a115-2938a011a141.png">
+
+<br />
+
+# 해커톤 정보
+<img width="817" alt="image" src="https://user-images.githubusercontent.com/71641127/223042903-d8939a00-2cf4-498a-b3c6-1825f6bcab26.png">
+
+해커톤 링크 : <https://event-us.kr/pathfinder/event/43523>
+
+해커톤 날짜 : 2022/04/29 ~ 2022/04/30
+
+# ETC
+- 해당 프로젝트는 패스핵 해커톤을 진행하면서 만든 프로젝트이다
+- 원본 repository : <https://github.com/W1nU/papago-front>
+- 참가인원 : 4
+
